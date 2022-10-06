@@ -1,18 +1,18 @@
 ---
-title: Example Talk
+title: Microsoft Azure Day Talk
 
-event: Wowchemy Conference
+event: Microsoft Azure Day
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: WeWork
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Floor 19, C-001/A2, Sector 16B
+  city: Noida
+  region: Uttar Pradesh 
+  postcode: '201301'
+  country: India
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Talk on diversity and exlusion in tech
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
